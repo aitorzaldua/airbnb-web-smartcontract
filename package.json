@@ -1,0 +1,8 @@
+{
+  "name": "airbnb-web3-smartcontract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aitorzaldua/airbnb-web3-smartcontract.git",
+  "author": "Aitor Zaldua <aitor.zaldua@draftdigital.org>",
+  "license": "MIT"
+}
